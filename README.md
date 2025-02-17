@@ -1,2 +1,2 @@
-# autopilot
+# Autopilot
 showcase automations achieved with autopilot.
