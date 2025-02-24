@@ -1,5 +1,5 @@
 # Author: Madison Durham
-# GitHub: https://github.com/madisondurham
+# GitHub: https://github.com/madison-sage-durham
 # Description: This script creates or updates a registry key to enable OneDrive sync on Entra Joined devices. 
 # Modify domain_guid to match your tenant's SharePoint admin center entry.
 # Usage: Run with administrator privileges.
